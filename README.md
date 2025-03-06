@@ -28,7 +28,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: JOANN ELIZABETH SAMUEL
 RegisterNumber:  212224040139
 */
-```
+
 import pandas as pd
 
 import numpy as np
@@ -114,7 +114,7 @@ plt.ylabel("Scores")
 plt.show()
 
 
-
+```
 ## Output:
 ![Screenshot 2025-03-03 094055](https://github.com/user-attachments/assets/a3572c73-de53-4c5a-a60b-ea7b59b4ee2c)
 ![Screenshot 2025-03-03 094131](https://github.com/user-attachments/assets/33bfbe24-61ac-4de6-a0d6-6caee3c8e489)
